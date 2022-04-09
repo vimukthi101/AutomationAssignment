@@ -1,4 +1,4 @@
-# AutomationAssignment
+# Automation Assignment
 Automation assignment - Vimukthi Saranga (vimukthisaranga1@gmail.com)
 
 src/main/java/com/qa/base/UIBasePage : Base methods for the framework
